@@ -11,6 +11,8 @@ BMC usado para rascunhar a empresa: [Mural](https://app.mural.co/t/m2iacademy431
 
 ** Painel criado a partir de dados fictícios. **
 
+<img src="print_dashboard_projeto.png">
+
 ## Lista de Tarefas
 - [x] Implementar os KPIs
 - [x] Geração dos dados
